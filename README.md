@@ -1,5 +1,7 @@
 English | [中文](https://github.com/cnlon/ob.js/blob/master/README.zh.md)
 
+⚠️ Deprecated! It was renamed [smart-observe](https://github.com/cnlon/smart-observe)
+
 # ob.js
 
 [![Build Status](https://travis-ci.org/cnlon/ob.js.svg?branch=master)](https://travis-ci.org/cnlon/ob.js)

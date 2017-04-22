@@ -1,5 +1,7 @@
 [English](https://github.com/cnlon/ob.js/blob/master/README.md) | 中文
 
+⚠️ 此仓库已经重名为 [smart-observe](https://github.com/cnlon/smart-observe)
+
 # ob.js
 
 [![Build Status](https://travis-ci.org/cnlon/ob.js.svg?branch=master)](https://travis-ci.org/cnlon/ob.js)
